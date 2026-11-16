@@ -11,3 +11,4 @@ wheels/
 
 **/qdrant_storage/
 **/data/images
+.env
